@@ -1,4 +1,4 @@
-import numpy as np  # Make numpy available using np.
+import numpy as np  # Make numpy available using numpy
 
 # Create a numpy array, and append an element
 a = np.array(["Hello", "World"])
