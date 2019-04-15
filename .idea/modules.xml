@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/deeplearning.iml" filepath="$PROJECT_DIR$/.idea/deeplearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flappylearning/.idea/flappylearning.iml" filepath="$PROJECT_DIR$/../flappylearning/.idea/flappylearning.iml" />
     </modules>
   </component>
 </project>
